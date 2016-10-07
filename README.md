@@ -1,6 +1,6 @@
 # MessageView
 
-![alt tag](https://github.com/ar-android/MessageView/raw/master/screen_shoot.png.png)
+![alt tag](https://github.com/ar-android/MessageView/raw/master/screen_shoot.png)
 
 ### Simple Message View Android Library
 This is an Android project allowing to realize a MessageView instead of RelativeLayout in the simplest way possible.
